@@ -1,4 +1,10 @@
 Muzika
 ======
 
-Apla database project yo! 
+Apla database project yo!
+
+
+Contributors:
+-------------
+
+- Chirag Chauhan [@imcrc](http://twitter.com/imcrc) 
