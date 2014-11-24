@@ -8,4 +8,4 @@ Contributors:
 -------------
 
 - Chirag Chauhan [@imcrc](http://twitter.com/imcrc) 
-- Prachi Marathe [@prachi] (http://facebook.com/prachi)
+- Prachi Marathe [@prachi] (http://facebook.com/prachi.marathe.50)
